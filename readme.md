@@ -11,13 +11,13 @@
   <img src="./img/logoBI.jpeg" alt="Power BI Logo" width="80"/>
 </div>
 
-# Processing and Transforming Data with Power BI
+# Creating a Star Schema for Sales Scenarios with Power BI
 
-This project is part of the lab [Processing and Transforming Data with Power BI](https://web.dio.me/lab/processando-e-transformando-dados-com-power-bi/learning/dc02898f-eee6-48b1-90b5-c0ef3f4f375a?back=/track/formacao-power-bi-analyst), offered by DIO.
+This project is part of the lab [Creating a Star Schema for Sales Scenarios with Power BI](https://web.dio.me/lab/criando-um-star-schema-para-cenarios-de-vendas-com-power-bi/learning/cc70d8ef-2b44-4f53-a05b-643de8e5086b?back=/track/formacao-power-bi-analyst), offered by DIO.
 
 ## Objective
 
-The objective of this project is to demonstrate how to process and transform data using Power BI, focusing on creating reports and dashboards that assist in strategic decision-making.
+The objective of this project is to demonstrate how to create a Star Schema for sales scenarios using Power BI, focusing on optimizing data modeling and improving report performance.
 
 ## Project Structure
 
@@ -26,12 +26,12 @@ The objective of this project is to demonstrate how to process and transform dat
    - Cleaning and transforming data using Power Query.
 
 2. **Data Modeling**:
-   - Creating relationships between tables.
-   - Defining measures and calculated columns.
+   - Creating a Star Schema with fact and dimension tables.
+   - Defining measures and calculated columns for advanced analysis.
 
 3. **Data Visualization**:
    - Developing interactive dashboards in Power BI.
-   - Presenting relevant insights, such as trends and performance metrics.
+   - Presenting relevant insights, such as sales metrics and performance.
 
 ## Tools Used
 
@@ -39,13 +39,13 @@ The objective of this project is to demonstrate how to process and transform dat
 
 ## Expected Results
 
-- Efficient transformation of raw data into useful information.
+- Efficient data structuring in a Star Schema.
 - Creation of interactive reports and dashboards.
-- Identification of patterns and trends in the data.
+- Improved query and analysis performance.
 
 ## Reference
 
-For more details, access the original lab: [Processing and Transforming Data with Power BI](https://web.dio.me/lab/processando-e-transformando-dados-com-power-bi/learning/dc02898f-eee6-48b1-90b5-c0ef3f4f375a?back=/track/formacao-power-bi-analyst).
+For more details, access the original lab: [Creating a Star Schema for Sales Scenarios with Power BI](https://web.dio.me/lab/criando-um-star-schema-para-cenarios-de-vendas-com-power-bi/learning/cc70d8ef-2b44-4f53-a05b-643de8e5086b?back=/track/formacao-power-bi-analyst).
 
 ## Author
 

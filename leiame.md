@@ -11,13 +11,13 @@
   <img src="./img/logoBI.jpeg" alt="Logo Power BI" width="80"/>
 </div>
 
-# Processando e Transformando Dados com Power BI
+# Criando um Star Schema para Cenários de Vendas com Power BI
 
-Este projeto faz parte do laboratório [Processando e Transformando Dados com Power BI](https://web.dio.me/lab/processando-e-transformando-dados-com-power-bi/learning/dc02898f-eee6-48b1-90b5-c0ef3f4f375a?back=/track/formacao-power-bi-analyst), oferecido pela DIO.
+Este projeto faz parte do laboratório [Criando um Star Schema para Cenários de Vendas com Power BI](https://web.dio.me/lab/criando-um-star-schema-para-cenarios-de-vendas-com-power-bi/learning/cc70d8ef-2b44-4f53-a05b-643de8e5086b?back=/track/formacao-power-bi-analyst), oferecido pela DIO.
 
 ## Objetivo
 
-O objetivo deste projeto é demonstrar como processar e transformar dados utilizando Power BI, com foco em criar relatórios e dashboards que auxiliem na tomada de decisões estratégicas.
+O objetivo deste projeto é demonstrar como criar um Star Schema para cenários de vendas utilizando Power BI, com foco em otimizar a modelagem de dados e melhorar a performance de relatórios.
 
 ## Estrutura do Projeto
 
@@ -26,12 +26,12 @@ O objetivo deste projeto é demonstrar como processar e transformar dados utiliz
    - Limpeza e transformação dos dados utilizando o Power Query.
 
 2. **Modelagem de Dados**:
-   - Criação de relacionamentos entre tabelas.
-   - Definição de medidas e colunas calculadas.
+   - Criação de um Star Schema com tabelas fato e dimensões.
+   - Definição de medidas e colunas calculadas para análises avançadas.
 
 3. **Visualização de Dados**:
    - Desenvolvimento de dashboards interativos no Power BI.
-   - Apresentação de insights relevantes, como tendências e métricas de desempenho.
+   - Apresentação de insights relevantes, como métricas de vendas e desempenho.
 
 ## Ferramentas Utilizadas
 
@@ -39,13 +39,13 @@ O objetivo deste projeto é demonstrar como processar e transformar dados utiliz
 
 ## Resultados Esperados
 
-- Transformação eficiente de dados brutos em informações úteis.
+- Estruturação eficiente de dados em um Star Schema.
 - Criação de relatórios e dashboards interativos.
-- Identificação de padrões e tendências nos dados.
+- Melhoria na performance de consultas e análises.
 
 ## Referência
 
-Para mais detalhes, acesse o laboratório original: [Processando e Transformando Dados com Power BI](https://web.dio.me/lab/processando-e-transformando-dados-com-power-bi/learning/dc02898f-eee6-48b1-90b5-c0ef3f4f375a?back=/track/formacao-power-bi-analyst).
+Para mais detalhes, acesse o laboratório original: [Criando um Star Schema para Cenários de Vendas com Power BI](https://web.dio.me/lab/criando-um-star-schema-para-cenarios-de-vendas-com-power-bi/learning/cc70d8ef-2b44-4f53-a05b-643de8e5086b?back=/track/formacao-power-bi-analyst).
 
 ## Autor
 
